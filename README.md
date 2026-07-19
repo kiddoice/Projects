@@ -11,5 +11,5 @@ Academic Related;
 > Responsible for the hardware aspect of the project, component selection, wiring, soldering, hardware-software integration.
 
 Professional/Intern Related; 
-- EggCounter System for Hatchery Farm
+- EggCounter System for Hatchery Farm (EggCounter)[https://github.com/kiddoice/EggCounter/tree/feature/frontend]
 > Utilizes Machine Learning with YOLOv8 as its model to count and daily log Eggs that goes through the conveyor for a private client. Has Live Camera Feed feature, count reset and daily trends. Built on ReactNative.
