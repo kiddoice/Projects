@@ -2,9 +2,14 @@
 
 Academic Related; 
 - GyroSkill 
+> Unity Based Game combined with ReactNative for cross platform compatibility. (iOS and Android)
 - Expo Based Messaging App with Navigation 
+> An expo based messaging app that has location viewing capability.
 - Blynk Based Sleep Position Monitoring System 
+> BlynkIoT App based Sleep position Monitoring System for those with Sleep Position related disorder.
 - Hardware Design of a Deep Learning-Based Water Quality Forecasting for Floating Fish Farms with Aeration Control
+> Responsible for the hardware aspect of the project, component selection, wiring, soldering, hardware-software integration.
 
 Professional/Intern Related; 
 - EggCounter System for Hatchery Farm
+> Utilizes Machine Learning with YOLOv8 as its model to count and log Eggs that goes through the conveyor for a private client. Built on ReactNative for the Front-End.
