@@ -12,4 +12,4 @@ Academic Related;
 
 Professional/Intern Related; 
 - EggCounter System for Hatchery Farm (https://github.com/kiddoice/EggCounter/tree/feature/frontend).
-> Responsible for the Component selection for the system, Front-end development and model training. Utilizes Machine Learning with YOLOv8 as its model to count and daily log Eggs that goes through the conveyor for a private client. Has Live Camera Feed feature, count reset and daily trends. Built on ReactNative.
+> Responsible for the Component selection for the system, Front-end development and model training. Utilizes Machine Learning with YOLOv8 as its model to count and daily log Eggs that goes through the conveyor for a private client. Has Live Camera Feed feature, count reset and daily trends. Built on ReactNative cross-platform compatible. (iOS and Android)
