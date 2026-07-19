@@ -5,7 +5,7 @@ Academic Related;
 > Unity Based Game combined with ReactNative for cross platform compatibility. (iOS and Android)
 - Expo Based Messaging App with Navigation 
 > An expo based messaging app that has location viewing capability.
-- Blynk Based Sleep Position Monitoring System 
+- Blynk Based Sleep Position Monitoring System (To Follow)
 > BlynkIoT App based Sleep position Monitoring System for those with Sleep Position related disorder.
 - Hardware Design of a Deep Learning-Based Water Quality Forecasting for Floating Fish Farms with Aeration Control
 > Responsible for the hardware aspect of the project, component selection, wiring, soldering, hardware-software integration.
