@@ -8,7 +8,7 @@ Academic Related;
 - Blynk Based Sleep Position Monitoring System (To Follow)
 > BlynkIoT App based Sleep position Monitoring System for those with Sleep Position related disorder.
 - Hardware Design of a Deep Learning-Based Water Quality Forecasting for Floating Fish Farms with Aeration Control
-> Responsible for the hardware aspect of the project, component selection, wiring, soldering, hardware-software integration.
+> Responsible for the hardware aspect of the project, component selection, wiring, soldering, hardware-software integration. Primary objective of the project is to reduce the percentage of fish kills by creating a water quality intervention by pumping oxygen into the fish pen. Paired with a mobile app for clients to see the current data reading of pH levels, Temperature, Turbidity and Total Dissolved Solids.
 
 Professional Related; 
 - EggCounter System for Hatchery Farm (https://github.com/kiddoice/EggCounter/tree/feature/frontend).
